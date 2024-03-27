@@ -1,0 +1,4 @@
+servlets:
+  - servlet-name: EntityOneServlet
+    servlet-class: com.example.servlets.EntityOneServlet
+    url-pattern: /entity1
